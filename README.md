@@ -1,21 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Van Gogh Style Transfer</title>
-  <style>
-    .image-container {
-      display: flex;
-      justify-content: space-around;
-      align-items: center;
-      margin-top: 20px;
-    }
-    .image-container img {
-      max-width: 45%;
-      height: auto;
-    }
-  </style>
 </head>
 <body>
   <div class="image-container">
