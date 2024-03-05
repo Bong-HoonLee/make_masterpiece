@@ -1,3 +1,10 @@
+# Purpose of the project
+- Turn your favorite photos into masterpieces
+
+### model structure
+![image](https://github.com/Bong-HoonLee/styleTransfer/assets/115579916/28d066ad-e055-4df7-b197-0022313eef93)
+
+
 ![Image 1](https://github.com/Bong-HoonLee/styleTransfer/assets/115579916/82f6b63f-f521-46fe-b4b4-e6e93883d613)  
 target Image
 
